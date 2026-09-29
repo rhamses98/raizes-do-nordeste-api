@@ -131,13 +131,13 @@ Promoções estão representadas conceitualmente em `GET /promocoes/regras`. A a
 
 ## Evidências e publicação
 
-- Repositório público: `https://github.com/raizes-do-nordeste-academico/raizes-do-nordeste-api`;
+- Repositório público: `https://github.com/rhamses98/raizes-do-nordeste-api`;
 - Swagger local: `http://127.0.0.1:8000/docs`;
 - coleção Postman: `postman/Raizes_do_Nordeste.postman_collection.json`;
 - relatório JUnit: `docs/relatorio-testes.xml`.
 - histórico de elaboração: `docs/historico-desenvolvimento.md`.
 
-O repositório está publicado na organização acadêmica `raizes-do-nordeste-academico`. Antes da entrega, confirme que o link público abre em uma janela anônima.
+O repositório está publicado na conta acadêmica do responsável, `rhamses98`. Antes da entrega, confirme que o link público abre em uma janela anônima.
 
 ## Histórico de elaboração
 
